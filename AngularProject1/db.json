@@ -1,0 +1,241 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bilgisayar",
+      "price": 2500,
+      "description": "ACER A315-34-C5W8 N4020 1.1/4/128/W10 DIZUSTU BILGISAYAR",
+      "image": "b1.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar",
+      "price": 2355,
+      "description": "ACER A315-34-C5W8 N4020 1.1/4/128/W10 DIZUSTU BILGISAYAR 2",
+      "image": "b2.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Bilgisayar",
+      "price": 4850,
+      "description": "ACER A315-34-C5W8 N4020 1.1/4/128/W10 DIZUSTU BILGISAYAR 4",
+      "image": "b4.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Bilgisayar",
+      "price": 5550,
+      "description": "ACER A315-34-C5W8 N4020 1.1/4/128/W10 DIZUSTU BILGISAYAR 5",
+      "image": "b5.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Cep Telefonu",
+      "price": 4578,
+      "description": "Xiaomi Redmi 9T 64GB 4GB RAM Karbon Grisi Cep Telefonu",
+      "image": "c1.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Cep Telefonu",
+      "price": 3654,
+      "description": "Xiaomi Redmi 9T 64GB 4GB RAM Karbon Grisi Cep Telefonu 2",
+      "image": "c2.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "Cep Telefonu",
+      "price": 3544,
+      "description": "Xiaomi Redmi 9T 64GB 4GB RAM Karbon Grisi Cep Telefonu 3",
+      "image": "c3.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "name": "Cep Telefonu",
+      "price": 2547,
+      "description": "Xiaomi Redmi 9T 64GB 4GB RAM Karbon Grisi Cep Telefonu 4",
+      "image": "c4.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 10,
+      "name": "Cep Telefonu",
+      "price": 5477,
+      "description": "Xiaomi Redmi 9T 64GB 4GB RAM Karbon Grisi Cep Telefonu 5",
+      "image": "c1.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": 11,
+      "name": "Foto Kamera",
+      "price": 2669,
+      "description": "Panasonic Lumix DC-FZ82 Dijital Fotoğraf Makinesi",
+      "image": "f1.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 12,
+      "name": "Foto Kamera",
+      "price": 3655,
+      "description": "Panasonic Lumix DC-FZ82 Dijital Fotoğraf Makinesi 2",
+      "image": "f2.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 13,
+      "name": "Foto Kamera",
+      "price": 3785,
+      "description": "Panasonic Lumix DC-FZ82 Dijital Fotoğraf Makinesi 3",
+      "image": "f3.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 14,
+      "name": "Foto Kamera",
+      "price": 4225,
+      "description": "Panasonic Lumix DC-FZ82 Dijital Fotoğraf Makinesi 4",
+      "image": "f4.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "name": "Foto Kamera",
+      "price": 2699,
+      "description": "Panasonic Lumix DC-FZ82 Dijital Fotoğraf Makinesi 5",
+      "image": "f5.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "name": "Beyaz Eşya",
+      "price": 5999,
+      "description": "Bosch Üçlü Beyaz Eşya Seti WGA142X1TR-KDN65VI20N-SMS44DI00T",
+      "image": "e1.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 17,
+      "name": "Beyaz Eşya",
+      "price": 5784,
+      "description": "Bosch Üçlü Beyaz Eşya Seti WGA142X1TR-KDN65VI20N-SMS44DI00T 2",
+      "image": "e2.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 18,
+      "name": "Beyaz Eşya",
+      "price": 5569,
+      "description": "Bosch Üçlü Beyaz Eşya Seti WGA142X1TR-KDN65VI20N-SMS44DI00T 3",
+      "image": "e3.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 19,
+      "name": "Beyaz Eşya",
+      "price": 6874,
+      "description": "Bosch Üçlü Beyaz Eşya Seti WGA142X1TR-KDN65VI20N-SMS44DI00T 4",
+      "image": "e4.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 20,
+      "name": "Beyaz Eşya",
+      "price": 7558,
+      "description": "Bosch Üçlü Beyaz Eşya Seti WGA142X1TR-KDN65VI20N-SMS44DI00T 5",
+      "image": "e5.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": 21,
+      "name": "Televizyon",
+      "price": 5544,
+      "description": "Philips 43PUS6504 43 108 Ekran 4K UHD Smart LED TV",
+      "image": "t1.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 22,
+      "name": "Televizyon",
+      "price": 4785,
+      "description": "Philips 43PUS6504 43 108 Ekran 4K UHD Smart LED TV 2",
+      "image": "t2.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 23,
+      "name": "Televizyon",
+      "price": 6449,
+      "description": "Philips 43PUS6504 43 108 Ekran 4K UHD Smart LED TV 3",
+      "image": "t3.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 24,
+      "name": "Televizyon",
+      "price": 9249,
+      "description": "Philips 43PUS6504 43 108 Ekran 4K UHD Smart LED TV 4",
+      "image": "t4.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": 25,
+      "name": "Televizyon",
+      "price": 8549,
+      "description": "Philips 43PUS6504 43 108 Ekran 4K UHD Smart LED TV 5",
+      "image": "t5.jpg",
+      "categoryId": 5
+    },
+    {
+      "name": "bilgisayar",
+      "price": 2457,
+      "description": "güzel",
+      "image": "b3.jpg",
+      "categoryId": "1",
+      "id": 26
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Cep Telefonu"
+    },
+    {
+      "id": 3,
+      "name": "Foto Kamera"
+    },
+    {
+      "id": 4,
+      "name": "Beyaz Eşya"
+    },
+    {
+      "id": 5,
+      "name": "Televizyon"
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ],
+  "registers": [
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ]
+}

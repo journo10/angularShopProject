@@ -1,0 +1,18 @@
+<div class="card">
+    <div *ngIf="product"class="row">
+      <div class="col-md-6">
+        <img src="assets/img/{{ product.image }}" class="img-fluid rounded-start" />
+      </div>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h3 class="card-title">{{ product.name | titlecase }}</h3>
+          <h4 class="card-title">Fiyat: {{ product.price | currency }}</h4>
+          <h5 class="card-title text-danger">
+            KDV'li Fiyat: {{ product.price | kdv: 18 | currency }}
+          </h5>
+          <p class="card-text">{{ product.description | uppercase }}</p>
+          <a routerLink="/products" class="btn btn-sm btn-outline-success mt-5 ">Anasayfaya git</a>
+        </div>
+      </div>
+    </div>
+  </div>

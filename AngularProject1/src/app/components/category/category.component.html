@@ -1,0 +1,13 @@
+<div class="container">
+<ul class="list-group mt-3 my-auto">
+  <li routerLink="/products" class="text-center list-group-item mt-5 text-white bg-dark">
+    Tüm Ürünler
+  </li>
+</ul>
+<ul class="list-group mt-2 my-auto">
+  <li *ngFor="let c of categories" routerLink="category/{{c.id}}" (click)="activeTiklaCategory(c)"
+    [class]="activeClassCategory(c)">
+    {{c.name}}
+  </li>
+</ul>
+</div>
